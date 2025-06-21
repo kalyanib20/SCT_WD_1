@@ -69,8 +69,9 @@ OR right-click and choose "Open with Live Server" in VS Code (recommended)
 
 💻 Output / Preview
 
+https://github.com/user-attachments/assets/9c21dd09-e45e-4941-b98e-8ac50ff658a6
 
-Uploading Screen Recording 2025-06-21 131020.mp4…
+
 
 
 
