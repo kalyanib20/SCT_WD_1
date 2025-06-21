@@ -8,8 +8,8 @@ Here is a complete and professional GitHub README.md-style description for your 
 🌐 Responsive Landing Page with Fixed Navigation Menu
 
 📝 Task Summary
-
-This project is a modern, responsive landing page designed using HTML, CSS, and JavaScript. The page features a fixed-position navigation menu that stays visible across all sections and dynamically changes style when the user scrolls or hovers over a menu item. It adapts to all screen sizes, ensuring a seamless experience on desktop, tablet, and mobile devices.
+Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
+The navigation menu should have a fixed position and be visible on all pages.
 
 
 ---
