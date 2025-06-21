@@ -52,12 +52,13 @@ Lightweight structure with no frameworks — easy to understand, modify, and dep
 To run the project locally:
 1. Clone the repository
 git clone https://github.com/your-username/responsive-landing-page.git
+https://github.com/kalyanib20/SCT_WD_1/blob/main/Responsive%20page.html
 
 
-2. Navigate into the project directory
+3. Navigate into the project directory
 cd responsive-landing-page
 
-3. Open the index.html file in your browser
+4. Open the index.html file in your browser
 You can:
 Double-click the file
 OR right-click and choose "Open with Live Server" in VS Code (recommended)
