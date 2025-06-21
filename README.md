@@ -45,6 +45,8 @@ Lightweight structure with no frameworks — easy to understand, modify, and dep
 - Enhancing user experience with clean UI/UX design principles
 - Structuring and organizing code efficiently in a real-world web project
 
+---
+
 ⚙ How to Run
 
 To run the project locally:
