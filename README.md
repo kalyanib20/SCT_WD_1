@@ -63,6 +63,7 @@ OR right-click and choose "Open with Live Server" in VS Code (recommended)
 ✅ No installations or setup required — runs directly in the browser.
 
 
+---
 
 💻 Output / Preview
 
