@@ -48,7 +48,7 @@ Lightweight structure with no frameworks — easy to understand, modify, and dep
 
 To run the project locally:
 1. Clone the repository
-git clone https://github.com/your-username/responsive-landing-page.git
+git clone [https://github.com/your-username/responsive-landing-page.git](https://github.com/kalyanib20/SCT_WD_1/blob/main/Responsive%20page.html)
 
 2. Navigate into the project directory
 cd responsive-landing-page
