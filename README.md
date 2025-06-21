@@ -69,6 +69,10 @@ OR right-click and choose "Open with Live Server" in VS Code (recommended)
 
 💻 Output / Preview
 
-Below is a screenshot of the landing page in action:
-(Replace the image link with your actual screenshot)
+
+Uploading Screen Recording 2025-06-21 131020.mp4…
+
+
+
+
 
